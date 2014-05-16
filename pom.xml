@@ -4,7 +4,7 @@
 	<groupId>com.milens3</groupId>
 	<artifactId>sourcemap-encoder</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Javascript Sourcemap Encoder</name>
+	<name>Sourcemap Encoder</name>
 	<description>A simple JS sourcemap encoder for Java, inspired by coffee-source-map.</description>
 	<dependencies>
 		<dependency>
